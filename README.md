@@ -9,3 +9,12 @@ I am actively solving problems to strengthen my understanding and improve proble
 - Problem-solving approaches including brute-force, optimized, and edge-case handling.
 
 > 🚀 I’m using this space to deepen my DSA knowledge and get ready for challenging interviews at product-based companies.
+
+**Array Problems:**
+1. Check if array is sorted
+2. Detect duplicates in array
+3. Two Sum
+4. Move zeros to the end
+5. Remove duplicates (HashMap)
+6. Remove duplicates (HashSet)
+7. Remove duplicates (Sorting + Two Pointers)
