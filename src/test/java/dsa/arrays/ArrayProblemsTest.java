@@ -1,6 +1,6 @@
 package dsa.arrays;
 
-import dsa.linkedlists.arrays.*;
+import dsa.arrays.*;
 
 import java.util.Arrays;
 
